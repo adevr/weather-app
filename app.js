@@ -22,7 +22,8 @@ app.get("/about", webRoutes.about);
 app.get("/help", webRoutes.help);
 app.get("/weather", webRoutes.weather);
 app.get("*", webRoutes.p404);
+const port = process.env['PORT'] || 3000;
 
-app.listen(3000, () => {
-    console.log("Server is up on port 3000")
+app.listen(port, () => {
+    console.log(`Server is up on port ${port}`)
 });
