@@ -25,7 +25,7 @@ module.exports = {
     weather: (req, res) => {
         if (!req.query.address) {
             return res.send({
-                error: 'You must provide an address!'
+                error: "You must provide an address!"
             })
         }
 
@@ -48,10 +48,10 @@ module.exports = {
         })
     },
     p404: (req, res) => {
-        res.render('404', {
-            title: '404',
+        res.render("404", {
+            title: "404",
             name: "Alexandre Reis",
-            errorMessage: 'Page not found.'
+            errorMessage: "Page not found."
         })
     }
 };
