@@ -1,17 +1,20 @@
 <p align="center">
 <h1 align="center"> Weather App </h1>
-<a align="center" href="https://github.com/adevr/weather-app/blob/master/LICENSE"><img src="http://img.shields.io/:license-mit-blue.svg" alt="License"></a>
   <img src="https://raw.githubusercontent.com/adevr/weather-app/master/preview.PNG" alt="Weather app" />
 </p>
  
 
-<h2 align="center"> <a href="https://node-weather-app-js.herokuapp.com/">Check it live here</a></h2>
+<h2 align="center"><a href="https://node-weather-app-js.herokuapp.com/">Check it live here</a></h2>
+
 
 <h3 align="center"> Weather application built with Node.js and Handlebars </h3>
 
 <p align="center"> This project uses the <a href="https://darksky.net/dev/docs">Dark Sky API</a> and the <a href="https://docs.mapbox.com/api/">MapBox API</a> </p>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0bb675801b5345009ab356895e15d8bd)](https://app.codacy.com/manual/adevr/weather-app?utm_source=github.com&utm_medium=referral&utm_content=adevr/weather-app&utm_campaign=Badge_Grade_Dashboard)
+
+<p align="center">
+<a align="center" href="https://app.codacy.com/manual/adevr/weather-app?utm_source=github.com&utm_medium=referral&utm_content=adevr/weather-app&utm_campaign=Badge_Grade_Dashboard"><img src="https://api.codacy.com/project/badge/Grade/0bb675801b5345009ab356895e15d8bd" alt="Codacy Badge"></a>
+<a align="center" href="https://github.com/adevr/weather-app/blob/master/LICENSE"><img src="http://img.shields.io/:license-mit-blue.svg" alt="License"></a></p>
 
 ### Weather application built with Node.js and Handlebars
 
